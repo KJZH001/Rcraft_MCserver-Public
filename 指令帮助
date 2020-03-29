@@ -1,0 +1,84 @@
+#欢迎
+欢迎您来到 空梦世界|EmptyDream World 服务器
+官方Q群  923991620
+官网 mc.rcraft.ml
+官方论坛 bbs.rcraft.ml
+皮肤站 mcskin.rcraft.ml:30000
+此处内容时间2020.03.29
+时间的推移可能会造成内容产生变化
+如有错误请向我们及时反馈，谢谢合作
+汉化by 空梦世界~EmptyDream World~ 管理组 晓空、仿佛如风
+Minecraft | 空梦世界 ～EmptyDream World～
+
+语法格式：/命令主体 <必填项>[-缩写] [可填项]
+|--空梦世界EmptyDream World指令帮助 第0页--|
+使用/bz [n]获取第n页的帮助。
+/Tpa 请求传送到某人身边
+/Tpahere 请求某人传送到自己身边
+/Sethome 设置家
+/Home 回到家
+/Spawn 回到主城
+/Zcd 主菜单
+/Sell 打开回收商店
+//box 打开仓库
+
+如需查询更多帮助请输入/bz 1
+
+#1
+ |--空梦世界EmptyDream World指令帮助 第1页--|
+使用/bz [n]获取第n页的帮助。
+
+//基础类
+/skin set : 设置你的皮肤
+/bz：查看本服务器的中文指令帮助
+/help: 查看本服务器的原生指令帮助
+/?：查看本服务器的英文指令帮助
+/kill: 自杀，同/suicide
+/list: 当前在线的玩家列表
+/ping 获取当前你连接服务器的延迟
+
+//账户操作类
+/authme: 登录插件AuthMe的完整命令
+/login: 登陆
+/logout: 登出
+/email: 添加一个用于修改/找回密码的邮箱
+@机器人 申请白名单 <id>  申请白名单（本命令请在qq群中使用，且一个QQ只能绑定一个id）
+
+#2
+ |--空梦世界EmptyDream World指令帮助 第2页--|
+
+//传送类
+/sethome 设置你的家
+/home [name] 传送你回到某个家或者打开回家的菜单
+/seehome: 查看某人的家
+/back 返回传送前的上一地点
+/worl: 传送到另一个世界
+/mv tp <worldName>: 传送到另一个世界
+/tpa <player> 向一个玩家请求传送
+/spawn 传送你去主城
+/warp <warp>将您传送到某个位置。
+/pay <player>向一个指定的玩家支付
+/afk 将您切换为AFK状态
+/helpstaff <message>.向在线的管理员请求帮助。
+/igonre <player>.忽略某个指定id的玩家
+/mail <read/clear/send>.阅读您的电子邮件
+/msg <player> <message>向某个玩家发送私信
+/suicide 执行自杀（如果您卡在某个地方的话）
+/help [n]获取指定页的帮助(如/help 2、/help rtp等)
+
+#3
+ |--空梦世界EmptyDream World指令帮助 第3页--|
+
+//Minecraft_qq
+/qq: Minecraft_QQ的主要指令
+/qq.char: Minecraft_QQ的聊天开关
+群: <内容>
+#服务器 <内容>（本命令请在qq群中使用）
+
+//商店类
+/gs 商店插件总命令
+/gs help 查看商店帮助
+/gs open 打开商店
+/gs listapi 查看可用货币类型
+/gs sell <货币类型> <价格> [数量] 出售物品
+/box 打开玩家仓库
