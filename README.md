@@ -21,5 +21,11 @@
 我们需要您的帮助以便于完善本项目的内容
 <br>如果您愿意参与到这个项目中来，请Fork本仓库并在您认为需要改进的地方修改完毕后申请提交以及合并分支
 <br>或者您也可以选择在Issues中发起一个新的工单以向我们寻求帮助或者提出建议
+# 本仓库的镜像页面
+如果你发现打开缓慢，你可以在这里选择一个相同的镜像地址
+<br>不过这些地址的内容不能保证是最新的
+源GitEdw http://server.rcraft.ml:30004/EmptyDream-World_Official/Rcraft_MCserver-Public
+码云Gitee https://gitee.com/rcraft/Rcraft_MCserver-Public
+Github 暂无
 # 更多 More..
 更多内容请查阅本项目的Wiki，它应该位于仓库标题下方选项卡的最后一个
