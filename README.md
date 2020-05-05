@@ -7,7 +7,7 @@
 <br>或 http://blog.rcraft.ml/index.php/2020/01/15/20/35/59/258/
 <br>来获取更多内容以便于您快速了解我们的服务器
 # 关于
-官网 http://mc.rcraft.ml
+官网 http://mc.rcraft.ml (已经暂时关闭)
 <br>博客 http://blog.rcraft.ml
 <br>论坛 http://bbs.rcraft.ml
 # 注意
