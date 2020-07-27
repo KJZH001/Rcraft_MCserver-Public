@@ -56,6 +56,6 @@ http://mc.moeworld.tech/?p=6
 
 码云Gitee https://gitee.com/rcraft/Rcraft_MCserver-Public
 
-Github 暂无
+Github https://github.com/KJZH001/Rcraft_MCserver-Public/
 # 更多 More..
 更多内容请查阅本项目的Wiki，它应该位于仓库标题下方选项卡的最后一个
