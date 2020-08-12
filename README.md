@@ -11,7 +11,7 @@
 
 http://mc.moeworld.tech/?p=6
 
-或 http://blog.rcraft.ml/index.php/2020/01/15/20/35/59/258/
+或 https://blog.moeworld.tech/2020/01/15/空梦世界～emptydream-world～/
 
 来获取更多内容以便于您快速了解我们的服务器
 # 关于
