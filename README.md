@@ -1,5 +1,9 @@
 ![Logo](https://cdn.jsdelivr.net/gh/KJZH001/For_PicGO@master/jsDelivr_static_files/img/large/20200727202146.png
 )
+
+> **Notice!**
+> 在近期我们有着修改仓库结构的打算，因此接下来仓库中的内容可能会出现比较大的变化
+> 此外，关于旧版本中的内容，我们可能会将其搬移到下载站或者Moeco中
 # 欢迎
 这里是**空梦世界 Minecraft 服务器所有的公开情报信息**查询处
 
