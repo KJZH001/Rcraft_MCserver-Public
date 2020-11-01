@@ -15,11 +15,11 @@ http://mc.moeworld.tech/?p=6
 
 来获取更多内容以便于您快速了解我们的服务器
 # 关于
-官网 http://mc.moeworld.tech
+空梦世界 官网 http://mc.moeworld.tech
 
-博客 http://blog.rcraft.ml
+晓空blog http://blog.rcraft.ml
 
-论坛 http://bbs.rcraft.ml
+Rcraft论坛 http://bbs.rcraft.ml
 # 注意
 这个里主要是用于查询即时更新和跟进维护所用的
 
@@ -31,13 +31,13 @@ http://mc.moeworld.tech/?p=6
 
 因为这里并不是为了帮助玩家了解信息而准备的（尽管您确实也可以选择这么做）
 
-如果您希望快速了解我们的服务器，请前往我们的官网 https://mc.moeworld.tech
+如果您希望以较为轻松的方式来快速了解我们的服务器，请前往我们的官网 https://mc.moeworld.tech
 # 参与本项目的后续开发维护
 我们需要您的帮助以便于完善本项目的内容
 
-如果您愿意参与到这个项目中来，请Fork本仓库并在您认为需要改进的地方修改完毕后申请提交以及合并分支
+如果您愿意参与到这个项目中来，请Fork本仓库并在您认为需要改进的地方修改完毕后进行pr
 
-或者您也可以选择在Issues中发起一个新的工单以向我们寻求帮助或者提出建议
+或者您也可以选择在Issue中发起一个新的工单以向我们寻求帮助或者提出建议
 
 这并不意味着您需要一定的编程基础，您也无需担心您的外语水平，如果您愿意的话向我们提出您的意见也同样是一种不错的方式
 
@@ -57,5 +57,3 @@ http://mc.moeworld.tech/?p=6
 码云Gitee https://gitee.com/rcraft/Rcraft_MCserver-Public
 
 Github https://github.com/KJZH001/Rcraft_MCserver-Public/
-# 更多 More..
-更多内容请查阅本项目的Wiki，它应该位于仓库标题下方选项卡的最后一个
