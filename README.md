@@ -76,4 +76,4 @@ Github https://github.com/KJZH001/Rcraft_MCserver-Public/
 
 ## 更新日志
 
-请阅读 [更新日志.md](./src/master/%e6%9c%80%e6%96%b0%e7%89%88%e6%9c%ac.md)
+请阅读 [更新日志.md](./blob/master/最新版本.md)
