@@ -11,7 +11,7 @@
 
 这里是**空梦世界 Minecraft 服务器所有的公开情报信息**查询处
 
-空梦世界|Minecraft ~EmptyDream World~ 
+空梦世界|Minecraft ——EmptyDream World—— 
 
 这是一个基于Paper+BungeeCord的群组、跨平台的纯净服务器
 
@@ -76,4 +76,4 @@ Github https://github.com/KJZH001/Rcraft_MCserver-Public/
 
 ## 更新日志
 
-请阅读 [更新日志.md](http://server.rcraft.ml:30004/EmptyDream-World_Official/Rcraft_MCserver-Public/src/master/%e6%9c%80%e6%96%b0%e7%89%88%e6%9c%ac.md)
+请阅读 [更新日志.md](./src/master/%e6%9c%80%e6%96%b0%e7%89%88%e6%9c%ac.md)
